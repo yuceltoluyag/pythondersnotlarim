@@ -1,0 +1,4 @@
+mahmut tuncer:10,20,30
+yücel toluyağ:50,80,60
+meral toluyağ:80,90,100
+felek nur:45,55,95
